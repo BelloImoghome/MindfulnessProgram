@@ -56,6 +56,7 @@ i) Think of a time when you stood up for someone else.
 ii) Think of a time when you did something really difficult.
 iii) Think of a time when you helped someone in need.
 iv) Think of a time when you did something truly selfless.
+
 4. After displaying the prompt, the program should ask the to reflect on questions that relate to this experience. These questions should be pulled from a list such as the following:
 
 i) Why was this experience meaningful to you?
